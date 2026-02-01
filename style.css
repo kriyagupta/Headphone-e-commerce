@@ -414,13 +414,13 @@ background-color: var(--black-color);
     transform: scale(1.1);
 }
 #zoom-img{
-    background-image: url('../images/img/Product1.jpg');
+    background-image: url('Product1.jpg');
 }
 #zoom-img-1{
-    background-image: url('../images/img/Product1.jpg');
+    background-image: url('Product1.jpg');
 }
 #zoom-img-2{
-    background-image: url('../images/img/Product1.jpg');
+    background-image: url('Product1.jpg');
 }
 form .form-group,
 form  input[type=text]{
@@ -486,4 +486,5 @@ color:var(--white-color);
 }
 .footer .footer-social a:hover{
     color: var(--primary-color);
+
 }
